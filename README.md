@@ -36,6 +36,10 @@ php main.php
 
 [hello-world](hello-world)
 
+### 0から9までを表示してみる
+
+[print-0-to-9](print-0-to-9)
+
 ###  九九表を表示する
 
 [multiplication-table](multiplication-table)

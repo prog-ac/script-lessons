@@ -1,12 +1,8 @@
-# 問題名
-
-## 条件
-
-特になし
+# Hello World!を表示してみる
 
 ## ヒント
 
-〇〇を使おう
+標準出力関数を使ってみる
 
 ## 実行コマンド
 
@@ -30,5 +26,5 @@ php main.php
 ## 実行結果
 
 ```shell:
-Hello Wordld!
+Hello World!
 ```

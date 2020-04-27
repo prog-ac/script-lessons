@@ -30,5 +30,5 @@ php main.php
 ## 実行結果
 
 ```shell:
-Hello Wordld!
+Hello World!
 ```

@@ -1,34 +1,26 @@
-# 問題名
-
-## 条件
-
-特になし
-
-## ヒント
-
-〇〇を使おう
+# テキストファイルの中にkobeという文字がいくつ含まれているかを表示する
 
 ## 実行コマンド
 
 JavaScript
 ```shell:
-node main.js
+node main.js ./kobe.txt
 ```
 Ruby
 ```shell:
-ruby main.rb
+ruby main.rb ./kobe.txt
 ```
 Python
 ```shell:
-python3 main.py
+python3 main.py ./kobe.txt
 ```
 PHP
 ```shell:
-php main.php
+php main.php ./kobe.txt
 ```
 
 ## 実行結果
 
 ```shell:
-Hello World!
+7
 ```

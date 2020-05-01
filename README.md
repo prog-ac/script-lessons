@@ -77,3 +77,11 @@ php main.php
 ### ホームフォルダ以下にある全てのファイル名を表示する(再帰的に)
 
 [print-files-recursive](print-files-recursive)
+
+### srcフォルダに入っている100個の画像を128x128のサイズにクロップする
+
+[crop-images](crop-images)
+
+### コマンドライン引数で受け取った楽曲名の歌詞を表示する
+
+[search-lyrics](search-lyrics)

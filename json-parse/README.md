@@ -1,34 +1,37 @@
-# 問題名
-
-## 条件
-
-特になし
+# コマンドライン引数で受け取ったjsonファイルを読み込み、名前：年齢を表示する
 
 ## ヒント
 
-〇〇を使おう
+ファイルの読み込み方を調べよう
+
+jsonファイルのパース(解析)の仕方を調べよう
+
+パースしたデータの参照の仕方を学ぼう
 
 ## 実行コマンド
 
 JavaScript
 ```shell:
-node main.js
+node main.js ./profiles.json
 ```
 Ruby
 ```shell:
-ruby main.rb
+ruby main.rb ./profiles.json
 ```
 Python
 ```shell:
-python3 main.py
+python3 main.py ./profiles.json
 ```
 PHP
 ```shell:
-php main.php
+php main.php ./profiles.json
 ```
 
 ## 実行結果
 
 ```shell:
-Hello World!
+佐藤:22
+鈴木:34
+高橋:42
+田中:15
 ```

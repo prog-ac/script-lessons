@@ -1,16 +1,8 @@
 # プロアカ問題集
 
 ## 準備
-1. GitHubのアカウントを準備する
-2. 自分のPCにSourceTreeをインストールする
 
-## 使い方
-
-1. 自分のアカウントのリポジトリにForkをする
-2. SourceTreeの「新規」で自分のリポジトリのURLからクローンする
-3. Visual Studio Codeでクローンしたディレクトリを開く
-4. 「ターミナル」→「新しいターミナル」を開く
-5. cd [レッスンフォルダ名] で移動する
+[https://prog-ac.hatenablog.com/entry/2020/05/04/061109](https://prog-ac.hatenablog.com/entry/2020/05/04/061109)
 
 ### 基本のコマンドの呼び出し
 JavaScript

@@ -44,6 +44,14 @@ php main.php
 
 [command-line-args](command-line-args)
 
+### 1〜50(を含む)のランダムな数字を表示する
+
+[random-int](random-int)
+
+### コマンドライン引数で受け取った秒数が今から何日・何時間・何分・何秒後かを求め表示する
+
+[seconds-to-time](seconds-to-time)
+
 
 ### コマンドライン引数を数字を大きい順に並び替えて表示する。ただし引数の数は何個でも受け付けれるようにする
 
@@ -61,6 +69,10 @@ php main.php
 ### 今日の日付を(○月○日○曜日)と表示する 
 
 [date-format](date-format)
+
+### jsonデータを読み込んでメンバーの給与を計算し、給与の多い順に並び替えて表示しよう
+
+[calc-salary](calc-salary)
 
 ### ログファイルの中からエラーの内容だけを抜き出して表示する
 

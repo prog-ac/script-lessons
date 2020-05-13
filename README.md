@@ -82,9 +82,13 @@ php main.php
 
 [print-files-recursive](print-files-recursive)
 
-### srcフォルダに入っている100個の画像を128x128のサイズにクロップする
+### srcフォルダに入っている100個の画像を128x128のサイズにリサイズする
 
 [crop-images](crop-images)
+
+### 複数の画像をつなげて動画をつくってみる
+
+[images-to-movie](images-to-movie)
 
 ### コマンドライン引数で受け取った楽曲名の歌詞を表示する
 

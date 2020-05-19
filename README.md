@@ -78,9 +78,9 @@ php main.php
 
 [analyze-logs](analyze-logs)
 
-### ホームフォルダ以下にある全てのファイル名を表示する(再帰的に)
+### kobe.jsonを読み込みkeyが"kobe"のものだけを表示してみよう
 
-[print-files-recursive](print-files-recursive)
+[print-recursive](print-recursive)
 
 ### srcフォルダに入っている100個の画像を128x128のサイズにリサイズする
 
